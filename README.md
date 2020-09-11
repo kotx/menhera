@@ -11,8 +11,5 @@ The page will provide a code and state that are provided in this format: `code:s
 
 The user can then paste the code into your application.
 
-## What's the catch?
-States can't be verified accurately. I've yet to think of a workaround for this.
-
 ## Can I use this project?
 Sure, it's licensed under the MIT license so do whatever the license allows. 
