@@ -5,7 +5,7 @@ A working MyAnimeList redirect URI.
 Menhera allows your [MyAnimeList](https://myanimelist.net) OAuth2 app to receive auth codes without hosting your own server. 
 
 ## How do I use Menhera?
-Add the following redirect URL to your application: https://kotx.github.io/menhera/auth.
+Add the following redirect URL to your application: https://kotx.github.io/menhera/auth.html
 
 The page will provide a code and state that are provided in this format: `code:state`.
 
