@@ -16,3 +16,6 @@ The user can then paste the code into your application.
 
 ## Can I use this project?
 Sure, it's licensed under the MIT license so do whatever the license allows. 
+
+## This looks boring
+You can check out [Taiga's](https://taiga.moe/api/myanimelist/auth/?code=change_this). They may not allow copying it though. Check their license.
